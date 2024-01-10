@@ -1,0 +1,1 @@
+	Para executar digite make no terminal e apos compilar digite /tp2 para executar
